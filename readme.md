@@ -22,6 +22,6 @@ This is a feature selection pipeline. Feature selection is performed using the R
 
 - Test out the performance of some widely used classifiers on the original dataset and the reduced one through the cross_val_scores&box_plots notebook.
 
-# Special Thanks To
+# Special Thanks To:
 
 - Aristidis Vrahatis: Assistant professor, Dept. of Informatics, Ionian University, Corfu, Greece.
